@@ -12,5 +12,10 @@ public class LoopsInJava {
             i++;
         } while (i <= 10);
 
+        // For Loop
+        for (int j = 90; j < 100; j++) {
+            System.out.println(j);
+        }
+
     }
 }
