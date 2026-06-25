@@ -15,3 +15,6 @@ public class FibonacciSeries {
         }
     }
 }
+
+// Output:
+// 100 101 201 302 503 805 1308 2113 3421 5534
