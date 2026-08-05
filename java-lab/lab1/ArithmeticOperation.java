@@ -1,3 +1,7 @@
+/* 7. Write a program to take two numbers as input from user and perform arithmetic operation
+based on the character given by user ( + for addition, - for subtraction, * for
+    multiplication, / for division and % for modulus.) using switch-case. */
+    
 import java.util.Scanner;
 
 public class ArithmeticOperation {

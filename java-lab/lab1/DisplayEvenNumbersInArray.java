@@ -74,3 +74,13 @@ public class DisplayEvenNumbersInArray {
     }
 
 }
+
+// Output: 
+// Enter the number of elements: 5 
+// Enter number 1 : 5 
+// Enter number 2 : 6
+// Enter number 3 : 7
+// Enter number 4 : 8
+// Enter number 5 : 9
+// Even numbers are:
+// 6 8

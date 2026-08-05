@@ -1,5 +1,7 @@
 // 17. write a program to print the following patterns. 
 
+// Question 17.1
+
 // public class DisplayPattern {
 //     public static void main(String[] args) {
 //         for (int i = 0; i < 5; i++) {
@@ -17,6 +19,10 @@
 // ***
 // ****
 // *****
+
+
+//Question 17.2
+
 
 public class DisplayPattern {
     public static void main(String[] args) {
