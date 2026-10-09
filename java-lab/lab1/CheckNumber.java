@@ -3,6 +3,7 @@
 import java.util.Scanner;
 
 public class CheckNumber {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -12,9 +13,9 @@ public class CheckNumber {
         if (num < 0) {
             System.out.println(num + " is negative.");
         } else if (num == 0) {
-            System.out.print(num + " is zero.");
+            System.out.println(num + " is zero.");
         } else {
-            System.out.print(num + " is positive.");
+            System.out.println(num + " is positive.");
         }
 
         sc.close();

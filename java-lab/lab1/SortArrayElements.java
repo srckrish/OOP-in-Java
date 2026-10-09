@@ -3,6 +3,7 @@
 import java.util.Scanner;
 
 public class SortArrayElements {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -36,3 +37,14 @@ public class SortArrayElements {
 
     }
 }
+
+// Output:
+// Enter the number of elements: 5
+// Enter the array elements:
+// 5
+// 8
+// 4
+// 3
+// 2
+// Array elements in ascending order:
+// 2 3 4 5 8

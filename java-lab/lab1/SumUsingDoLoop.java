@@ -1,5 +1,7 @@
-// 10. Write to program print the sum of the first 10 natural numbers using do while loop.
+// 10. Write a program to print the sum of the first 10 natural numbers using do while loop.
+
 public class SumUsingDoLoop {
+
     public static void main(String[] args) {
         int num = 1;
         int sum = 0;

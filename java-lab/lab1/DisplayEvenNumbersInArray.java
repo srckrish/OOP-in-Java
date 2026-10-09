@@ -37,7 +37,6 @@ public class DisplayEvenNumbersInArray {
     }
 }
  */
-
 import java.util.Scanner;
 
 public class DisplayEvenNumbersInArray {

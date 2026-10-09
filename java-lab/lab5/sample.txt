@@ -1,0 +1,4 @@
+This is the first line.
+This text is written using FileWriter.
+This line is appended to the existing file.
+The old content is not deleted.

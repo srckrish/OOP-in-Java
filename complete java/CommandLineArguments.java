@@ -1,0 +1,13 @@
+
+public class CommandLineArguments {
+    public static void main(String[] args) {
+        for (String arg : args) {
+            System.out.print(arg + " ");
+        }
+
+        if (args.length > 0) {
+            System.out.println();
+        }
+        System.out.println("Number of Arguments: " + args.length);
+    }
+}
